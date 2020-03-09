@@ -1,24 +1,35 @@
 import React from 'react';
+import { Layout, Menu, Breadcrumb } from 'antd';
+import { Card } from 'antd';
 import logo from './logo.svg';
 import './App.css';
+const { Header, Content, Footer } = Layout;
+
+const cardData = [
+  {
+    nama : "Muklas",
+    job : "Mahasiswa"
+  },
+  {
+    nama : "Siapa",
+  }
+]
 
 function App() {
+  
+ 
+
   return (
+    
+
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {
+        cardData.map( data =>
+          <Card title="Card title" bordered={false} style={{ width: 300 }}>
+            <p>{data.nama}</p>
+          </Card>
+      )
+    }
     </div>
   );
 }
