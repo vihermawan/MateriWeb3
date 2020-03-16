@@ -1,0 +1,22 @@
+Perhatian untuk dibaca
+
+coba diexplore dulu, beberapa sudah diberi komentar pada setiap line barisnya di pahami juga ya. 
+
+folder App.css dipindah ke dalam assets dan di dalamn folder css, jangan lupa ketika di pindah nanti import di App.jsnya juga dirubah
+
+Pada materi ini akan mempelajari terkait component child dan parent, serta penggunaan state dan belajar
+struktur foldering yang ada direact. 
+
+Folder di bagi menjadi beberapa :
+app         : bisa dikatakan sebagai parent komponen
+assets      : untuk menyimpan styling css yang diperlukan
+common      : untuk membuat komponen yang diperlukan, ataupun layout. komponen dibuat di dalam folder common
+              apabila digunakan terus menerus.
+modules     : modules digunakan untuk melakukan styling halaman, bisa dikatan sebagai anak komponen
+
+hubungan modules dan app
+ketika kita membuat sebuah halaman di web, pasti halaman itu akan memuat data dan juga halaman stylingnya,
+untuk itu dalam react di pecah menjadi dua yaitu di folder app dan folder modules. untuk penamanaan di folder app
+diberi nama file-page.js, sedangkan di folder modules di beri nama file-component.js
+
+untuk penjelasan selanjutnya bisa diliat di folder app terlebih dahulu. 
