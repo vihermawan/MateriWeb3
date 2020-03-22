@@ -15,7 +15,7 @@ class LandingComponent extends Component{
         */}
         return(
             <Layout className="landing-container">
-                <Navbar/>  {/* ini merupakan component navbar yang kita import dari folder layout yang ada di common*/}
+                {/* <Navbar/>  ini merupakan component navbar yang kita import dari folder layout yang ada di common */}
                 <Content style={{ overflow: "hidden" }}> {/* ini merupakan component content yang sudah di define sebelumnya*/}
                     <Row className="section-container">
                         <Col lg={12} md={12} sm={12}>
