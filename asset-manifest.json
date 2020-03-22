@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MateriWeb3/static/css/main.fcd27899.chunk.css",
+    "main.js": "/MateriWeb3/static/js/main.80504555.chunk.js",
+    "main.js.map": "/MateriWeb3/static/js/main.80504555.chunk.js.map",
+    "runtime-main.js": "/MateriWeb3/static/js/runtime-main.e851b085.js",
+    "runtime-main.js.map": "/MateriWeb3/static/js/runtime-main.e851b085.js.map",
+    "static/css/2.4b6e3ef2.chunk.css": "/MateriWeb3/static/css/2.4b6e3ef2.chunk.css",
+    "static/js/2.b8253ffb.chunk.js": "/MateriWeb3/static/js/2.b8253ffb.chunk.js",
+    "static/js/2.b8253ffb.chunk.js.map": "/MateriWeb3/static/js/2.b8253ffb.chunk.js.map",
+    "index.html": "/MateriWeb3/index.html",
+    "precache-manifest.bd18b7e86aa07f2b1e0cdfb0a218511a.js": "/MateriWeb3/precache-manifest.bd18b7e86aa07f2b1e0cdfb0a218511a.js",
+    "service-worker.js": "/MateriWeb3/service-worker.js",
+    "static/css/2.4b6e3ef2.chunk.css.map": "/MateriWeb3/static/css/2.4b6e3ef2.chunk.css.map",
+    "static/css/main.fcd27899.chunk.css.map": "/MateriWeb3/static/css/main.fcd27899.chunk.css.map",
+    "static/js/2.b8253ffb.chunk.js.LICENSE.txt": "/MateriWeb3/static/js/2.b8253ffb.chunk.js.LICENSE.txt",
+    "static/media/picture.svg": "/MateriWeb3/static/media/picture.e834ca3a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e851b085.js",
+    "static/css/2.4b6e3ef2.chunk.css",
+    "static/js/2.b8253ffb.chunk.js",
+    "static/css/main.fcd27899.chunk.css",
+    "static/js/main.80504555.chunk.js"
+  ]
+}
