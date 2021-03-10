@@ -14,6 +14,8 @@ common      : untuk membuat komponen yang diperlukan, ataupun layout. komponen d
               apabila digunakan terus menerus.
 modules     : modules digunakan untuk melakukan styling halaman, bisa dikatan sebagai anak komponen
 
+folder pada react bersifat dinamis jadi yang saya bikin merupakan sesuai preferensi saya :)
+
 hubungan modules dan app
 ketika kita membuat sebuah halaman di web, pasti halaman itu akan memuat data dan juga halaman stylingnya,
 untuk itu dalam react di pecah menjadi dua yaitu di folder app dan folder modules. untuk penamanaan di folder app
